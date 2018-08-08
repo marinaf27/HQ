@@ -1,5 +1,5 @@
 
-# HQ/Trivia solutions from Agora
+# Agora Game Show solutions from Agora
 
 *Read this in other languages: [中文](README.zh.md)*
 
